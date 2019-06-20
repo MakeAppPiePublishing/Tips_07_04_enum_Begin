@@ -22,7 +22,7 @@
 		E149B70C229FED03009244EF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E149B70F229FED03009244EF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E149B711229FED03009244EF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E149B717229FED56009244EF /* 07_04_enums.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = 07_04_enums.playground; path = ../../Begin_old2/07_04_enums.playground; sourceTree = "<group>"; };
+		E17C182A22BBCFB600CF35D2 /* enums.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = enums.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,7 +39,7 @@
 		E149B6F9229FED00009244EF = {
 			isa = PBXGroup;
 			children = (
-				E149B717229FED56009244EF /* 07_04_enums.playground */,
+				E17C182A22BBCFB600CF35D2 /* enums.playground */,
 				E149B704229FED00009244EF /* Tips_07_04_enum */,
 				E149B703229FED00009244EF /* Products */,
 			);
